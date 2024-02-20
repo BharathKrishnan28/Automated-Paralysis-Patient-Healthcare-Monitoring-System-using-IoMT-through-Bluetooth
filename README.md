@@ -1,0 +1,1 @@
+# Automated-Paralysis-Patient-Healthcare-Monitoring-System-using-IoMT-through-Bluetooth
